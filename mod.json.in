@@ -1,0 +1,7 @@
+{
+  "id": "com.example.save_location_restore",
+  "name": "Save Location Restore",
+  "version": "@PROJECT_VERSION@",
+  "author": "You",
+  "description": "Restore Link to the saved stage, room, position, and facing when loading a save."
+}
